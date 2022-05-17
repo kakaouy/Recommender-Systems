@@ -2,7 +2,7 @@
 
 ## Cursos
 
-  - Introduction to Recommender Systems: Non-Personalized and Content-Based
+  -  Programa especializado: Sistemas de recomendación - 
     https://www.coursera.org/learn/recommender-systems-introduction
 
 ## Medidas de popularidad o rankeo de items
