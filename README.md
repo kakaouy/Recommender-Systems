@@ -1,5 +1,10 @@
 # Recommender-Systems
 
+## Cursos
+
+  - Introduction to Recommender Systems: Non-Personalized and Content-Based
+    https://www.coursera.org/learn/recommender-systems-introduction
+
 ## Medidas de popularidad o rankeo de items
 ### - How Not To Sort By Average Rating
 Score = Lower bound of Wilson score confidence interval for a Bernoulli parameter
