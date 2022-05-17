@@ -1,6 +1,6 @@
 # Recommender-Systems
 
-## Medidas de popularidad
+## Medidas de popularidad o rankeo de items
 ### How Not To Sort By Average Rating
 Score = Lower bound of Wilson score confidence interval for a Bernoulli parameter
 
@@ -10,3 +10,13 @@ We need to balance the proportion of positive ratings with the uncertainty of a 
 
 
 https://www.evanmiller.org/how-not-to-sort-by-average-rating.html
+
+### How Hacker News ranking algorithm works
+
+Considerations: effects of gravity (G) and time (T)
+Gravity and time have a significant impact on the score of an item. Generally these things hold true:
+
+the score decreases as T increases, meaning that older items will get lower and lower scores
+the score decreases much faster for older items if gravity is increased
+
+https://medium.com/hacking-and-gonzo/how-hacker-news-ranking-algorithm-works-1d9b0cf2c08d
